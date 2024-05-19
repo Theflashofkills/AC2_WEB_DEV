@@ -1,1 +1,1 @@
-Ola
+print("F")
